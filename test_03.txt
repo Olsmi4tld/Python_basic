@@ -1,0 +1,5 @@
+ivanov,20000
+petrov,19000
+lenin,17000
+smirnov,21000
+smith,14000
